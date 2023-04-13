@@ -1,0 +1,7 @@
+pyrogram
+youtube-search-python
+pytube
+wget
+asSQL
+tgcrypto
+git+https://github.com/yt-dlp/yt-dlp.git
